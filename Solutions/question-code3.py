@@ -140,3 +140,4 @@ for comb in list(combinations):
     ):
         counter += 1
 print(f"Total Subsets: {counter}")
+
